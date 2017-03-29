@@ -1,0 +1,38 @@
+body {
+  background-color: BurlyWood;
+}
+
+.wrapper {
+  width: 50vw;
+  height: 120vh;
+  margin: 0 auto;
+  background-color: BlanchedAlmond;
+}
+
+.title {
+  padding: 10px;
+  text-align: center;
+}
+
+.quotebox{
+
+}
+
+.quote {
+  background-color: white;
+  padding: 2%;
+}
+
+.buttons{
+  display: inline-block;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+
+.getQuote {
+
+}
+
+.twitter-share-button {
+
+}
